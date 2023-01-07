@@ -1,1 +1,1 @@
-# Othello-Game-Logic-Creator
+# Othello-User-Interface
